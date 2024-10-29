@@ -20,6 +20,24 @@ body{
 .header-1{
     line-height: 20px;
 }
+.header-2{
+    display: flex;
+}
+
+.search-container {
+    position: relative;
+    width: 200px;
+}
+
+#search {
+    width: 100%;
+    padding: 7px;
+    border-radius: 9px;
+    border: none; 
+    outline: none; 
+    background-color:beige;
+}
+
    
 
 .cervezas{
